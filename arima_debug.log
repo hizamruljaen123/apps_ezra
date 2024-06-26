@@ -1,0 +1,4210 @@
+2024-06-26 06:55:55,806 - INFO - Testing ARIMA parameters: (0, 0, 0)
+2024-06-26 06:55:55,806 - INFO - 
+ARIMA params: p=0, d=0, q=0
+2024-06-26 06:55:55,806 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 06:55:55,819 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 06:55:55,821 - ERROR - Error with ARIMA parameters (0, 0, 0): unsupported operand type(s) for +: 'int' and 'range'
+2024-06-26 06:55:55,821 - INFO - Testing ARIMA parameters: (0, 0, 1)
+2024-06-26 06:55:55,822 - INFO - 
+ARIMA params: p=0, d=0, q=1
+2024-06-26 06:55:55,824 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 06:55:55,825 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 06:55:55,825 - ERROR - Error with ARIMA parameters (0, 0, 1): unsupported operand type(s) for +: 'int' and 'range'
+2024-06-26 06:55:55,825 - INFO - Testing ARIMA parameters: (0, 1, 0)
+2024-06-26 06:55:55,825 - INFO - 
+ARIMA params: p=0, d=1, q=0
+2024-06-26 06:55:55,825 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 06:55:55,841 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 06:55:55,841 - ERROR - Error with ARIMA parameters (0, 1, 0): unsupported operand type(s) for +: 'int' and 'range'
+2024-06-26 06:55:55,841 - INFO - Testing ARIMA parameters: (0, 1, 1)
+2024-06-26 06:55:55,841 - INFO - 
+ARIMA params: p=0, d=1, q=1
+2024-06-26 06:55:55,841 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 06:55:55,841 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 06:55:55,857 - ERROR - Error with ARIMA parameters (0, 1, 1): unsupported operand type(s) for +: 'int' and 'range'
+2024-06-26 06:55:55,857 - INFO - Testing ARIMA parameters: (1, 0, 0)
+2024-06-26 06:55:55,857 - INFO - 
+ARIMA params: p=1, d=0, q=0
+2024-06-26 06:55:55,857 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 06:55:55,857 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 06:55:55,857 - ERROR - Error with ARIMA parameters (1, 0, 0): unsupported operand type(s) for +: 'int' and 'range'
+2024-06-26 06:55:55,857 - INFO - Testing ARIMA parameters: (1, 0, 1)
+2024-06-26 06:55:55,872 - INFO - 
+ARIMA params: p=1, d=0, q=1
+2024-06-26 06:55:55,872 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 06:55:55,872 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 06:55:55,872 - ERROR - Error with ARIMA parameters (1, 0, 1): unsupported operand type(s) for +: 'int' and 'range'
+2024-06-26 06:55:55,872 - INFO - Testing ARIMA parameters: (1, 1, 0)
+2024-06-26 06:55:55,872 - INFO - 
+ARIMA params: p=1, d=1, q=0
+2024-06-26 06:55:55,882 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 06:55:55,886 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.250
+2024-05-03    18.020
+2024-05-06    18.255
+2024-05-07    17.810
+Freq: B, dtype: float64
+2024-06-26 06:55:55,887 - ERROR - Error with ARIMA parameters (1, 1, 0): unsupported operand type(s) for +: 'int' and 'range'
+2024-06-26 06:55:55,887 - INFO - Testing ARIMA parameters: (1, 1, 1)
+2024-06-26 06:55:55,888 - INFO - 
+ARIMA params: p=1, d=1, q=1
+2024-06-26 06:55:55,889 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 06:55:55,889 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 06:55:55,889 - ERROR - Error with ARIMA parameters (1, 1, 1): unsupported operand type(s) for +: 'int' and 'range'
+2024-06-26 06:55:55,889 - INFO - Best ARIMA parameters found:
+2024-06-26 06:55:55,889 - INFO - None
+2024-06-26 06:58:16,639 - INFO - Testing ARIMA parameters: (0, 0, 0)
+2024-06-26 06:58:16,644 - INFO - 
+ARIMA params: p=0, d=0, q=0
+2024-06-26 06:58:16,647 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 06:58:16,654 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 06:58:16,659 - ERROR - Error with ARIMA parameters (0, 0, 0): unsupported operand type(s) for +: 'int' and 'range'
+2024-06-26 06:58:16,660 - INFO - Testing ARIMA parameters: (0, 0, 1)
+2024-06-26 06:58:16,662 - INFO - 
+ARIMA params: p=0, d=0, q=1
+2024-06-26 06:58:16,667 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 06:58:16,685 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 06:58:16,686 - ERROR - Error with ARIMA parameters (0, 0, 1): unsupported operand type(s) for +: 'int' and 'range'
+2024-06-26 06:58:16,686 - INFO - Testing ARIMA parameters: (0, 1, 0)
+2024-06-26 06:58:16,689 - INFO - 
+ARIMA params: p=0, d=1, q=0
+2024-06-26 06:58:16,697 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 06:58:16,706 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 06:58:16,709 - ERROR - Error with ARIMA parameters (0, 1, 0): unsupported operand type(s) for +: 'int' and 'range'
+2024-06-26 06:58:16,710 - INFO - Testing ARIMA parameters: (0, 1, 1)
+2024-06-26 06:58:16,714 - INFO - 
+ARIMA params: p=0, d=1, q=1
+2024-06-26 06:58:16,717 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 06:58:16,742 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 06:58:16,743 - ERROR - Error with ARIMA parameters (0, 1, 1): unsupported operand type(s) for +: 'int' and 'range'
+2024-06-26 06:58:16,744 - INFO - Testing ARIMA parameters: (1, 0, 0)
+2024-06-26 06:58:16,747 - INFO - 
+ARIMA params: p=1, d=0, q=0
+2024-06-26 06:58:16,749 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 06:58:16,760 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 06:58:16,761 - ERROR - Error with ARIMA parameters (1, 0, 0): unsupported operand type(s) for +: 'int' and 'range'
+2024-06-26 06:58:16,761 - INFO - Testing ARIMA parameters: (1, 0, 1)
+2024-06-26 06:58:16,763 - INFO - 
+ARIMA params: p=1, d=0, q=1
+2024-06-26 06:58:16,766 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 06:58:16,780 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 06:58:16,780 - ERROR - Error with ARIMA parameters (1, 0, 1): unsupported operand type(s) for +: 'int' and 'range'
+2024-06-26 06:58:16,780 - INFO - Testing ARIMA parameters: (1, 1, 0)
+2024-06-26 06:58:16,780 - INFO - 
+ARIMA params: p=1, d=1, q=0
+2024-06-26 06:58:16,780 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 06:58:16,798 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.250
+2024-05-03    18.020
+2024-05-06    18.255
+2024-05-07    17.810
+Freq: B, dtype: float64
+2024-06-26 06:58:16,798 - ERROR - Error with ARIMA parameters (1, 1, 0): unsupported operand type(s) for +: 'int' and 'range'
+2024-06-26 06:58:16,798 - INFO - Testing ARIMA parameters: (1, 1, 1)
+2024-06-26 06:58:16,798 - INFO - 
+ARIMA params: p=1, d=1, q=1
+2024-06-26 06:58:16,798 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 06:58:16,810 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 06:58:16,810 - ERROR - Error with ARIMA parameters (1, 1, 1): unsupported operand type(s) for +: 'int' and 'range'
+2024-06-26 06:58:16,810 - INFO - Best ARIMA parameters found:
+2024-06-26 06:58:16,810 - INFO - None
+2024-06-26 06:59:00,947 - INFO - Testing ARIMA parameters: (0, 0, 0)
+2024-06-26 06:59:00,947 - INFO - 
+ARIMA params: p=0, d=0, q=0
+2024-06-26 06:59:00,947 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 06:59:00,959 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 06:59:00,961 - ERROR - Error with ARIMA parameters (0, 0, 0): unsupported operand type(s) for +: 'int' and 'range'
+2024-06-26 06:59:00,961 - INFO - Testing ARIMA parameters: (0, 0, 1)
+2024-06-26 06:59:00,963 - INFO - 
+ARIMA params: p=0, d=0, q=1
+2024-06-26 06:59:00,965 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 06:59:00,971 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 06:59:00,971 - ERROR - Error with ARIMA parameters (0, 0, 1): unsupported operand type(s) for +: 'int' and 'range'
+2024-06-26 06:59:00,972 - INFO - Testing ARIMA parameters: (0, 1, 0)
+2024-06-26 06:59:00,973 - INFO - 
+ARIMA params: p=0, d=1, q=0
+2024-06-26 06:59:00,977 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 06:59:00,982 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 06:59:00,983 - ERROR - Error with ARIMA parameters (0, 1, 0): unsupported operand type(s) for +: 'int' and 'range'
+2024-06-26 06:59:00,984 - INFO - Testing ARIMA parameters: (0, 1, 1)
+2024-06-26 06:59:00,985 - INFO - 
+ARIMA params: p=0, d=1, q=1
+2024-06-26 06:59:00,986 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 06:59:00,998 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 06:59:01,003 - ERROR - Error with ARIMA parameters (0, 1, 1): unsupported operand type(s) for +: 'int' and 'range'
+2024-06-26 06:59:01,003 - INFO - Testing ARIMA parameters: (1, 0, 0)
+2024-06-26 06:59:01,005 - INFO - 
+ARIMA params: p=1, d=0, q=0
+2024-06-26 06:59:01,008 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 06:59:01,013 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 06:59:01,013 - ERROR - Error with ARIMA parameters (1, 0, 0): unsupported operand type(s) for +: 'int' and 'range'
+2024-06-26 06:59:01,014 - INFO - Testing ARIMA parameters: (1, 0, 1)
+2024-06-26 06:59:01,017 - INFO - 
+ARIMA params: p=1, d=0, q=1
+2024-06-26 06:59:01,020 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 06:59:01,030 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 06:59:01,031 - ERROR - Error with ARIMA parameters (1, 0, 1): unsupported operand type(s) for +: 'int' and 'range'
+2024-06-26 06:59:01,031 - INFO - Testing ARIMA parameters: (1, 1, 0)
+2024-06-26 06:59:01,033 - INFO - 
+ARIMA params: p=1, d=1, q=0
+2024-06-26 06:59:01,036 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 06:59:01,048 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.250
+2024-05-03    18.020
+2024-05-06    18.255
+2024-05-07    17.810
+Freq: B, dtype: float64
+2024-06-26 06:59:01,049 - ERROR - Error with ARIMA parameters (1, 1, 0): unsupported operand type(s) for +: 'int' and 'range'
+2024-06-26 06:59:01,049 - INFO - Testing ARIMA parameters: (1, 1, 1)
+2024-06-26 06:59:01,051 - INFO - 
+ARIMA params: p=1, d=1, q=1
+2024-06-26 06:59:01,053 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 06:59:01,062 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 06:59:01,062 - ERROR - Error with ARIMA parameters (1, 1, 1): unsupported operand type(s) for +: 'int' and 'range'
+2024-06-26 06:59:01,064 - INFO - Best ARIMA parameters found:
+2024-06-26 06:59:01,065 - INFO - None
+2024-06-26 07:01:26,161 - INFO - Testing ARIMA parameters: (0, 0, 0)
+2024-06-26 07:01:26,162 - INFO - 
+ARIMA params: p=0, d=0, q=0
+2024-06-26 07:01:26,165 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:01:26,170 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 07:01:26,174 - INFO - Score for parameters (0, 0, 0): 0.0
+2024-06-26 07:01:26,174 - INFO - Testing ARIMA parameters: (0, 0, 1)
+2024-06-26 07:01:26,177 - INFO - 
+ARIMA params: p=0, d=0, q=1
+2024-06-26 07:01:26,180 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:01:26,180 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 07:01:26,194 - INFO - Score for parameters (0, 0, 1): 0.0
+2024-06-26 07:01:26,194 - INFO - Testing ARIMA parameters: (0, 1, 0)
+2024-06-26 07:01:26,196 - INFO - 
+ARIMA params: p=0, d=1, q=0
+2024-06-26 07:01:26,199 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:01:26,205 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:01:26,209 - INFO - Score for parameters (0, 1, 0): 0.0
+2024-06-26 07:01:26,211 - INFO - Testing ARIMA parameters: (0, 1, 1)
+2024-06-26 07:01:26,213 - INFO - 
+ARIMA params: p=0, d=1, q=1
+2024-06-26 07:01:26,215 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:01:26,222 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.250
+2024-05-03    17.940
+2024-05-06    19.055
+2024-05-07    17.160
+Freq: B, dtype: float64
+2024-06-26 07:01:26,228 - INFO - Score for parameters (0, 1, 1): 0.41831562499999275
+2024-06-26 07:01:26,228 - INFO - Testing ARIMA parameters: (1, 0, 0)
+2024-06-26 07:01:26,229 - INFO - 
+ARIMA params: p=1, d=0, q=0
+2024-06-26 07:01:26,232 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:01:26,235 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 07:01:26,245 - INFO - Score for parameters (1, 0, 0): 0.0
+2024-06-26 07:01:26,246 - INFO - Testing ARIMA parameters: (1, 0, 1)
+2024-06-26 07:01:26,247 - INFO - 
+ARIMA params: p=1, d=0, q=1
+2024-06-26 07:01:26,250 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:01:26,315 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 07:01:26,318 - INFO - Score for parameters (1, 0, 1): 0.0
+2024-06-26 07:01:26,318 - INFO - Testing ARIMA parameters: (1, 1, 0)
+2024-06-26 07:01:26,321 - INFO - 
+ARIMA params: p=1, d=1, q=0
+2024-06-26 07:01:26,329 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:01:26,347 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.250
+2024-05-03    18.020
+2024-05-06    18.255
+2024-05-07    17.810
+Freq: B, dtype: float64
+2024-06-26 07:01:26,350 - INFO - Score for parameters (1, 1, 0): 0.11934999999999985
+2024-06-26 07:01:26,350 - INFO - Testing ARIMA parameters: (1, 1, 1)
+2024-06-26 07:01:26,378 - INFO - 
+ARIMA params: p=1, d=1, q=1
+2024-06-26 07:01:26,378 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:01:26,394 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 07:01:26,394 - INFO - Score for parameters (1, 1, 1): 1.673262499999971
+2024-06-26 07:01:26,394 - INFO - Best ARIMA parameters found:
+2024-06-26 07:01:26,394 - INFO - (1, 1, 0)
+2024-06-26 07:01:59,946 - INFO - 
+ARIMA params: p=1, d=1, q=0
+2024-06-26 07:01:59,947 - INFO - y_diff head: Tanggal
+2024-05-24   -0.145000
+2024-05-27    0.280857
+2024-05-28   -0.530857
+2024-05-29   -0.267000
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:01:59,951 - INFO - y_pred head: Tanggal
+2024-05-24    18.340000
+2024-05-27    18.475857
+2024-05-28    18.225857
+2024-05-29    17.428000
+Freq: B, dtype: float64
+2024-06-26 07:03:50,435 - INFO - Testing ARIMA parameters: (0, 0, 0)
+2024-06-26 07:03:50,437 - INFO - 
+ARIMA params: p=0, d=0, q=0
+2024-06-26 07:03:50,448 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:03:50,455 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 07:03:50,460 - INFO - Score for parameters (0, 0, 0): 0.0
+2024-06-26 07:03:50,461 - INFO - Testing ARIMA parameters: (0, 0, 1)
+2024-06-26 07:03:50,463 - INFO - 
+ARIMA params: p=0, d=0, q=1
+2024-06-26 07:03:50,466 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:03:50,472 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 07:03:50,477 - INFO - Score for parameters (0, 0, 1): 0.0
+2024-06-26 07:03:50,477 - INFO - Testing ARIMA parameters: (0, 1, 0)
+2024-06-26 07:03:50,479 - INFO - 
+ARIMA params: p=0, d=1, q=0
+2024-06-26 07:03:50,481 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:03:50,486 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:03:50,490 - INFO - Score for parameters (0, 1, 0): 0.0
+2024-06-26 07:03:50,491 - INFO - Testing ARIMA parameters: (0, 1, 1)
+2024-06-26 07:03:50,494 - INFO - 
+ARIMA params: p=0, d=1, q=1
+2024-06-26 07:03:50,498 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:03:50,508 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.250
+2024-05-03    17.940
+2024-05-06    19.055
+2024-05-07    17.160
+Freq: B, dtype: float64
+2024-06-26 07:03:50,511 - INFO - Score for parameters (0, 1, 1): 0.41831562499999275
+2024-06-26 07:03:50,513 - INFO - Testing ARIMA parameters: (1, 0, 0)
+2024-06-26 07:03:50,514 - INFO - 
+ARIMA params: p=1, d=0, q=0
+2024-06-26 07:03:50,516 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:03:50,525 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 07:03:50,528 - INFO - Score for parameters (1, 0, 0): 0.0
+2024-06-26 07:03:50,528 - INFO - Testing ARIMA parameters: (1, 0, 1)
+2024-06-26 07:03:50,528 - INFO - 
+ARIMA params: p=1, d=0, q=1
+2024-06-26 07:03:50,528 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:03:50,541 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 07:03:50,541 - INFO - Score for parameters (1, 0, 1): 0.0
+2024-06-26 07:03:50,541 - INFO - Testing ARIMA parameters: (1, 1, 0)
+2024-06-26 07:03:50,541 - INFO - 
+ARIMA params: p=1, d=1, q=0
+2024-06-26 07:03:50,541 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:03:50,541 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.250
+2024-05-03    18.020
+2024-05-06    18.255
+2024-05-07    17.810
+Freq: B, dtype: float64
+2024-06-26 07:03:50,558 - INFO - Score for parameters (1, 1, 0): 0.11934999999999985
+2024-06-26 07:03:50,559 - INFO - Testing ARIMA parameters: (1, 1, 1)
+2024-06-26 07:03:50,560 - INFO - 
+ARIMA params: p=1, d=1, q=1
+2024-06-26 07:03:50,562 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:03:50,564 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 07:03:50,573 - INFO - Score for parameters (1, 1, 1): 1.673262499999971
+2024-06-26 07:03:50,575 - INFO - Best ARIMA parameters found:
+2024-06-26 07:03:50,576 - INFO - (1, 1, 0)
+2024-06-26 07:04:01,168 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 0, 0, 12)
+2024-06-26 07:04:01,169 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=0, Q=0, m=12
+2024-06-26 07:04:01,172 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:04:01,180 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.250
+2024-05-03    18.020
+2024-05-06    18.255
+2024-05-07    17.810
+Freq: B, dtype: float64
+2024-06-26 07:04:01,183 - INFO - Score for parameters (1, 1, 0, 0, 0, 0, 12): 0.11934999999999985
+2024-06-26 07:04:01,184 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 0, 1, 12)
+2024-06-26 07:04:01,185 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=0, Q=1, m=12
+2024-06-26 07:04:01,188 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:04:01,192 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:04:01,195 - INFO - Score for parameters (1, 1, 0, 0, 0, 1, 12): 0.1461656249999998
+2024-06-26 07:04:01,196 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 1, 0, 12)
+2024-06-26 07:04:01,197 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=1, Q=0, m=12
+2024-06-26 07:04:01,199 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:04:01,205 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.250
+2024-05-03    18.020
+2024-05-06    18.255
+2024-05-07    17.810
+Freq: B, dtype: float64
+2024-06-26 07:04:01,207 - INFO - Score for parameters (1, 1, 0, 0, 1, 0, 12): 0.11934999999999985
+2024-06-26 07:04:01,207 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 1, 1, 12)
+2024-06-26 07:04:01,207 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=1, Q=1, m=12
+2024-06-26 07:04:01,212 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:04:01,214 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:04:01,217 - INFO - Score for parameters (1, 1, 0, 0, 1, 1, 12): 0.1461656249999998
+2024-06-26 07:04:01,217 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 0, 0, 12)
+2024-06-26 07:04:01,217 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=0, Q=0, m=12
+2024-06-26 07:04:01,217 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:04:01,217 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:04:01,231 - INFO - Score for parameters (1, 1, 0, 1, 0, 0, 12): 0.1461656249999998
+2024-06-26 07:04:01,232 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 0, 1, 12)
+2024-06-26 07:04:01,233 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=0, Q=1, m=12
+2024-06-26 07:04:01,234 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:04:01,237 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:04:01,239 - INFO - Score for parameters (1, 1, 0, 1, 0, 1, 12): 0.3611390624999994
+2024-06-26 07:04:01,239 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 1, 0, 12)
+2024-06-26 07:04:01,241 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=1, Q=0, m=12
+2024-06-26 07:04:01,243 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:04:01,247 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:04:01,249 - INFO - Score for parameters (1, 1, 0, 1, 1, 0, 12): 0.1461656249999998
+2024-06-26 07:04:01,249 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 1, 1, 12)
+2024-06-26 07:04:01,250 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=1, Q=1, m=12
+2024-06-26 07:04:01,253 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:04:01,253 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:04:01,253 - INFO - Score for parameters (1, 1, 0, 1, 1, 1, 12): 0.3611390624999994
+2024-06-26 07:04:01,253 - INFO - Best Seasonal ARIMA parameters found:
+2024-06-26 07:04:01,253 - INFO - (1, 1, 0, 0, 0, 0, 12)
+2024-06-26 07:05:10,867 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 0, 0, 12)
+2024-06-26 07:05:10,869 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=0, Q=0, m=12
+2024-06-26 07:05:10,871 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:05:10,876 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.250
+2024-05-03    18.020
+2024-05-06    18.255
+2024-05-07    17.810
+Freq: B, dtype: float64
+2024-06-26 07:05:10,879 - INFO - Score for parameters (1, 1, 0, 0, 0, 0, 12): 0.11934999999999985
+2024-06-26 07:05:10,879 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 0, 1, 12)
+2024-06-26 07:05:10,879 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=0, Q=1, m=12
+2024-06-26 07:05:10,879 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:05:10,879 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:05:10,879 - INFO - Score for parameters (1, 1, 0, 0, 0, 1, 12): 0.1461656249999998
+2024-06-26 07:05:10,892 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 1, 0, 12)
+2024-06-26 07:05:10,894 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=1, Q=0, m=12
+2024-06-26 07:05:10,896 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:05:10,903 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.250
+2024-05-03    18.020
+2024-05-06    18.255
+2024-05-07    17.810
+Freq: B, dtype: float64
+2024-06-26 07:05:10,906 - INFO - Score for parameters (1, 1, 0, 0, 1, 0, 12): 0.11934999999999985
+2024-06-26 07:05:10,906 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 1, 1, 12)
+2024-06-26 07:05:10,907 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=1, Q=1, m=12
+2024-06-26 07:05:10,909 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:05:10,913 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:05:10,916 - INFO - Score for parameters (1, 1, 0, 0, 1, 1, 12): 0.1461656249999998
+2024-06-26 07:05:10,917 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 0, 0, 12)
+2024-06-26 07:05:10,918 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=0, Q=0, m=12
+2024-06-26 07:05:10,919 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:05:10,922 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:05:10,928 - INFO - Score for parameters (1, 1, 0, 1, 0, 0, 12): 0.1461656249999998
+2024-06-26 07:05:10,928 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 0, 1, 12)
+2024-06-26 07:05:10,930 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=0, Q=1, m=12
+2024-06-26 07:05:10,932 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:05:10,935 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:05:10,937 - INFO - Score for parameters (1, 1, 0, 1, 0, 1, 12): 0.3611390624999994
+2024-06-26 07:05:10,937 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 1, 0, 12)
+2024-06-26 07:05:10,938 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=1, Q=0, m=12
+2024-06-26 07:05:10,939 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:05:10,942 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:05:10,945 - INFO - Score for parameters (1, 1, 0, 1, 1, 0, 12): 0.1461656249999998
+2024-06-26 07:05:10,945 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 1, 1, 12)
+2024-06-26 07:05:10,946 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=1, Q=1, m=12
+2024-06-26 07:05:10,948 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:05:10,951 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:05:10,951 - INFO - Score for parameters (1, 1, 0, 1, 1, 1, 12): 0.3611390624999994
+2024-06-26 07:05:10,951 - INFO - Best Seasonal ARIMA parameters found:
+2024-06-26 07:05:10,951 - INFO - (1, 1, 0, 0, 0, 0, 12)
+2024-06-26 07:07:30,380 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 0, 0, 12)
+2024-06-26 07:07:30,381 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=0, Q=0, m=12
+2024-06-26 07:07:30,381 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:07:30,394 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 07:07:30,396 - INFO - Score for parameters (1, 1, 1, 0, 0, 0, 12): 1.673262499999971
+2024-06-26 07:07:30,396 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 0, 1, 12)
+2024-06-26 07:07:30,398 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=0, Q=1, m=12
+2024-06-26 07:07:30,400 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:07:30,403 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:07:30,407 - INFO - Score for parameters (1, 1, 1, 0, 0, 1, 12): 0.5246953125000015
+2024-06-26 07:07:30,407 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 1, 0, 12)
+2024-06-26 07:07:30,408 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=1, Q=0, m=12
+2024-06-26 07:07:30,408 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:07:30,408 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 07:07:30,408 - INFO - Score for parameters (1, 1, 1, 0, 1, 0, 12): 1.673262499999971
+2024-06-26 07:07:30,408 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 1, 1, 12)
+2024-06-26 07:07:30,408 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=1, Q=1, m=12
+2024-06-26 07:07:30,421 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:07:30,424 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:07:30,424 - INFO - Score for parameters (1, 1, 1, 0, 1, 1, 12): 0.5246953125000015
+2024-06-26 07:07:30,424 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 0, 0, 12)
+2024-06-26 07:07:30,424 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=0, Q=0, m=12
+2024-06-26 07:07:30,424 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:07:30,438 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:07:30,441 - INFO - Score for parameters (1, 1, 1, 1, 0, 0, 12): 0.5246953125000015
+2024-06-26 07:07:30,442 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 0, 1, 12)
+2024-06-26 07:07:30,442 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=0, Q=1, m=12
+2024-06-26 07:07:30,444 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:07:30,447 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:07:30,449 - INFO - Score for parameters (1, 1, 1, 1, 0, 1, 12): 1.2209374999999982
+2024-06-26 07:07:30,449 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 1, 0, 12)
+2024-06-26 07:07:30,450 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=1, Q=0, m=12
+2024-06-26 07:07:30,451 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:07:30,456 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:07:30,459 - INFO - Score for parameters (1, 1, 1, 1, 1, 0, 12): 0.5246953125000015
+2024-06-26 07:07:30,459 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 1, 1, 12)
+2024-06-26 07:07:30,460 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=1, Q=1, m=12
+2024-06-26 07:07:30,461 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:07:30,465 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:07:30,474 - INFO - Score for parameters (1, 1, 1, 1, 1, 1, 12): 1.2209374999999982
+2024-06-26 07:07:30,475 - INFO - Best Seasonal ARIMA parameters found:
+2024-06-26 07:07:30,475 - INFO - (1, 1, 1, 0, 0, 1, 12)
+2024-06-26 07:07:54,197 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 0, 0, 12)
+2024-06-26 07:07:54,200 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=0, Q=0, m=12
+2024-06-26 07:07:54,202 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:07:54,207 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 07:07:54,217 - INFO - Score for parameters (1, 1, 1, 0, 0, 0, 12): 1.673262499999971
+2024-06-26 07:07:54,217 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 0, 1, 12)
+2024-06-26 07:07:54,219 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=0, Q=1, m=12
+2024-06-26 07:07:54,221 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:07:54,226 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:07:54,228 - INFO - Score for parameters (1, 1, 1, 0, 0, 1, 12): 0.5246953125000015
+2024-06-26 07:07:54,229 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 1, 0, 12)
+2024-06-26 07:07:54,230 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=1, Q=0, m=12
+2024-06-26 07:07:54,233 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:07:54,239 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 07:07:54,241 - INFO - Score for parameters (1, 1, 1, 0, 1, 0, 12): 1.673262499999971
+2024-06-26 07:07:54,241 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 1, 1, 12)
+2024-06-26 07:07:54,244 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=1, Q=1, m=12
+2024-06-26 07:07:54,246 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:07:54,251 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:07:54,253 - INFO - Score for parameters (1, 1, 1, 0, 1, 1, 12): 0.5246953125000015
+2024-06-26 07:07:54,253 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 0, 0, 12)
+2024-06-26 07:07:54,254 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=0, Q=0, m=12
+2024-06-26 07:07:54,256 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:07:54,261 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:07:54,265 - INFO - Score for parameters (1, 1, 1, 1, 0, 0, 12): 0.5246953125000015
+2024-06-26 07:07:54,265 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 0, 1, 12)
+2024-06-26 07:07:54,266 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=0, Q=1, m=12
+2024-06-26 07:07:54,266 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:07:54,266 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:07:54,266 - INFO - Score for parameters (1, 1, 1, 1, 0, 1, 12): 1.2209374999999982
+2024-06-26 07:07:54,266 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 1, 0, 12)
+2024-06-26 07:07:54,266 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=1, Q=0, m=12
+2024-06-26 07:07:54,266 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:07:54,266 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:07:54,284 - INFO - Score for parameters (1, 1, 1, 1, 1, 0, 12): 0.5246953125000015
+2024-06-26 07:07:54,284 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 1, 1, 12)
+2024-06-26 07:07:54,286 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=1, Q=1, m=12
+2024-06-26 07:07:54,287 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:07:54,290 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:07:54,292 - INFO - Score for parameters (1, 1, 1, 1, 1, 1, 12): 1.2209374999999982
+2024-06-26 07:07:54,293 - INFO - Best Seasonal ARIMA parameters found:
+2024-06-26 07:07:54,294 - INFO - (1, 1, 1, 0, 0, 1, 12)
+2024-06-26 07:08:38,356 - INFO - Testing ARIMA parameters: (0, 0, 0)
+2024-06-26 07:08:38,358 - INFO - 
+ARIMA params: p=0, d=0, q=0
+2024-06-26 07:08:38,360 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:08:38,364 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 07:08:38,366 - INFO - Score for parameters (0, 0, 0): 0.0
+2024-06-26 07:08:38,366 - INFO - Testing ARIMA parameters: (0, 0, 1)
+2024-06-26 07:08:38,368 - INFO - 
+ARIMA params: p=0, d=0, q=1
+2024-06-26 07:08:38,368 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:08:38,368 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 07:08:38,368 - INFO - Score for parameters (0, 0, 1): 0.0
+2024-06-26 07:08:38,368 - INFO - Testing ARIMA parameters: (0, 1, 0)
+2024-06-26 07:08:38,368 - INFO - 
+ARIMA params: p=0, d=1, q=0
+2024-06-26 07:08:38,384 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:08:38,390 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:08:38,393 - INFO - Score for parameters (0, 1, 0): 0.0
+2024-06-26 07:08:38,393 - INFO - Testing ARIMA parameters: (0, 1, 1)
+2024-06-26 07:08:38,395 - INFO - 
+ARIMA params: p=0, d=1, q=1
+2024-06-26 07:08:38,398 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:08:38,403 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.250
+2024-05-03    17.940
+2024-05-06    19.055
+2024-05-07    17.160
+Freq: B, dtype: float64
+2024-06-26 07:08:38,405 - INFO - Score for parameters (0, 1, 1): 0.41831562499999275
+2024-06-26 07:08:38,405 - INFO - Testing ARIMA parameters: (1, 0, 0)
+2024-06-26 07:08:38,407 - INFO - 
+ARIMA params: p=1, d=0, q=0
+2024-06-26 07:08:38,409 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:08:38,409 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 07:08:38,419 - INFO - Score for parameters (1, 0, 0): 0.0
+2024-06-26 07:08:38,419 - INFO - Testing ARIMA parameters: (1, 0, 1)
+2024-06-26 07:08:38,421 - INFO - 
+ARIMA params: p=1, d=0, q=1
+2024-06-26 07:08:38,423 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:08:38,429 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 07:08:38,431 - INFO - Score for parameters (1, 0, 1): 0.0
+2024-06-26 07:08:38,432 - INFO - Testing ARIMA parameters: (1, 1, 0)
+2024-06-26 07:08:38,436 - INFO - 
+ARIMA params: p=1, d=1, q=0
+2024-06-26 07:08:38,438 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:08:38,441 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.250
+2024-05-03    18.020
+2024-05-06    18.255
+2024-05-07    17.810
+Freq: B, dtype: float64
+2024-06-26 07:08:38,443 - INFO - Score for parameters (1, 1, 0): 0.11934999999999985
+2024-06-26 07:08:38,444 - INFO - Testing ARIMA parameters: (1, 1, 1)
+2024-06-26 07:08:38,446 - INFO - 
+ARIMA params: p=1, d=1, q=1
+2024-06-26 07:08:38,454 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:08:38,454 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 07:08:38,454 - INFO - Score for parameters (1, 1, 1): 1.673262499999971
+2024-06-26 07:08:38,454 - INFO - Best ARIMA parameters found:
+2024-06-26 07:08:38,454 - INFO - (1, 1, 0)
+2024-06-26 07:08:43,201 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 0, 0, 12)
+2024-06-26 07:08:43,203 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=0, Q=0, m=12
+2024-06-26 07:08:43,206 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:08:43,213 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.250
+2024-05-03    18.020
+2024-05-06    18.255
+2024-05-07    17.810
+Freq: B, dtype: float64
+2024-06-26 07:08:43,216 - INFO - Score for parameters (1, 1, 0, 0, 0, 0, 12): 0.11934999999999985
+2024-06-26 07:08:43,216 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 0, 1, 12)
+2024-06-26 07:08:43,218 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=0, Q=1, m=12
+2024-06-26 07:08:43,220 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:08:43,226 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:08:43,230 - INFO - Score for parameters (1, 1, 0, 0, 0, 1, 12): 0.1461656249999998
+2024-06-26 07:08:43,230 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 1, 0, 12)
+2024-06-26 07:08:43,232 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=1, Q=0, m=12
+2024-06-26 07:08:43,237 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:08:43,242 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.250
+2024-05-03    18.020
+2024-05-06    18.255
+2024-05-07    17.810
+Freq: B, dtype: float64
+2024-06-26 07:08:43,245 - INFO - Score for parameters (1, 1, 0, 0, 1, 0, 12): 0.11934999999999985
+2024-06-26 07:08:43,245 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 1, 1, 12)
+2024-06-26 07:08:43,247 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=1, Q=1, m=12
+2024-06-26 07:08:43,250 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:08:43,255 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:08:43,256 - INFO - Score for parameters (1, 1, 0, 0, 1, 1, 12): 0.1461656249999998
+2024-06-26 07:08:43,256 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 0, 0, 12)
+2024-06-26 07:08:43,256 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=0, Q=0, m=12
+2024-06-26 07:08:43,256 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:08:43,275 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:08:43,278 - INFO - Score for parameters (1, 1, 0, 1, 0, 0, 12): 0.1461656249999998
+2024-06-26 07:08:43,278 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 0, 1, 12)
+2024-06-26 07:08:43,280 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=0, Q=1, m=12
+2024-06-26 07:08:43,282 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:08:43,285 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:08:43,290 - INFO - Score for parameters (1, 1, 0, 1, 0, 1, 12): 0.3611390624999994
+2024-06-26 07:08:43,291 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 1, 0, 12)
+2024-06-26 07:08:43,291 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=1, Q=0, m=12
+2024-06-26 07:08:43,291 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:08:43,291 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:08:43,305 - INFO - Score for parameters (1, 1, 0, 1, 1, 0, 12): 0.1461656249999998
+2024-06-26 07:08:43,305 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 1, 1, 12)
+2024-06-26 07:08:43,306 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=1, Q=1, m=12
+2024-06-26 07:08:43,308 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:08:43,313 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:08:43,315 - INFO - Score for parameters (1, 1, 0, 1, 1, 1, 12): 0.3611390624999994
+2024-06-26 07:08:43,316 - INFO - Best Seasonal ARIMA parameters found:
+2024-06-26 07:08:43,317 - INFO - (1, 1, 0, 0, 0, 0, 12)
+2024-06-26 07:12:19,192 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 0, 0, 12)
+2024-06-26 07:12:19,193 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=0, Q=0, m=12
+2024-06-26 07:12:19,196 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:12:19,204 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.250
+2024-05-03    18.020
+2024-05-06    18.255
+2024-05-07    17.810
+Freq: B, dtype: float64
+2024-06-26 07:12:19,207 - INFO - Score for parameters (1, 1, 0, 0, 0, 0, 12): 0.11934999999999985
+2024-06-26 07:12:19,208 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 0, 1, 12)
+2024-06-26 07:12:19,210 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=0, Q=1, m=12
+2024-06-26 07:12:19,212 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:12:19,217 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:12:19,219 - INFO - Score for parameters (1, 1, 0, 0, 0, 1, 12): 0.1461656249999998
+2024-06-26 07:12:19,220 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 1, 0, 12)
+2024-06-26 07:12:19,222 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=1, Q=0, m=12
+2024-06-26 07:12:19,222 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:12:19,222 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.250
+2024-05-03    18.020
+2024-05-06    18.255
+2024-05-07    17.810
+Freq: B, dtype: float64
+2024-06-26 07:12:19,236 - INFO - Score for parameters (1, 1, 0, 0, 1, 0, 12): 0.11934999999999985
+2024-06-26 07:12:19,236 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 1, 1, 12)
+2024-06-26 07:12:19,237 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=1, Q=1, m=12
+2024-06-26 07:12:19,239 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:12:19,243 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:12:19,245 - INFO - Score for parameters (1, 1, 0, 0, 1, 1, 12): 0.1461656249999998
+2024-06-26 07:12:19,245 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 0, 0, 12)
+2024-06-26 07:12:19,247 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=0, Q=0, m=12
+2024-06-26 07:12:19,249 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:12:19,258 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:12:19,260 - INFO - Score for parameters (1, 1, 0, 1, 0, 0, 12): 0.1461656249999998
+2024-06-26 07:12:19,261 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 0, 1, 12)
+2024-06-26 07:12:19,262 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=0, Q=1, m=12
+2024-06-26 07:12:19,267 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:12:19,267 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:12:19,267 - INFO - Score for parameters (1, 1, 0, 1, 0, 1, 12): 0.3611390624999994
+2024-06-26 07:12:19,267 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 1, 0, 12)
+2024-06-26 07:12:19,283 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=1, Q=0, m=12
+2024-06-26 07:12:19,286 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:12:19,292 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:12:19,297 - INFO - Score for parameters (1, 1, 0, 1, 1, 0, 12): 0.1461656249999998
+2024-06-26 07:12:19,297 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 1, 1, 12)
+2024-06-26 07:12:19,302 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=1, Q=1, m=12
+2024-06-26 07:12:19,305 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:12:19,310 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:12:19,320 - INFO - Score for parameters (1, 1, 0, 1, 1, 1, 12): 0.3611390624999994
+2024-06-26 07:12:19,321 - INFO - Best Seasonal ARIMA parameters found:
+2024-06-26 07:12:19,322 - INFO - (1, 1, 0, 0, 0, 0, 12)
+2024-06-26 07:12:28,723 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 0, 0, 12)
+2024-06-26 07:12:28,723 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=0, Q=0, m=12
+2024-06-26 07:12:28,723 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:12:28,739 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 07:12:28,742 - INFO - Score for parameters (1, 1, 1, 0, 0, 0, 12): 1.673262499999971
+2024-06-26 07:12:28,742 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 0, 1, 12)
+2024-06-26 07:12:28,744 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=0, Q=1, m=12
+2024-06-26 07:12:28,747 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:12:28,751 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:12:28,755 - INFO - Score for parameters (1, 1, 1, 0, 0, 1, 12): 0.5246953125000015
+2024-06-26 07:12:28,755 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 1, 0, 12)
+2024-06-26 07:12:28,759 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=1, Q=0, m=12
+2024-06-26 07:12:28,762 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:12:28,770 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 07:12:28,772 - INFO - Score for parameters (1, 1, 1, 0, 1, 0, 12): 1.673262499999971
+2024-06-26 07:12:28,772 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 1, 1, 12)
+2024-06-26 07:12:28,772 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=1, Q=1, m=12
+2024-06-26 07:12:28,772 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:12:28,772 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:12:28,772 - INFO - Score for parameters (1, 1, 1, 0, 1, 1, 12): 0.5246953125000015
+2024-06-26 07:12:28,772 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 0, 0, 12)
+2024-06-26 07:12:28,772 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=0, Q=0, m=12
+2024-06-26 07:12:28,772 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:12:28,786 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:12:28,786 - INFO - Score for parameters (1, 1, 1, 1, 0, 0, 12): 0.5246953125000015
+2024-06-26 07:12:28,786 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 0, 1, 12)
+2024-06-26 07:12:28,786 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=0, Q=1, m=12
+2024-06-26 07:12:28,786 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:12:28,786 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:12:28,803 - INFO - Score for parameters (1, 1, 1, 1, 0, 1, 12): 1.2209374999999982
+2024-06-26 07:12:28,803 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 1, 0, 12)
+2024-06-26 07:12:28,805 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=1, Q=0, m=12
+2024-06-26 07:12:28,806 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:12:28,809 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:12:28,810 - INFO - Score for parameters (1, 1, 1, 1, 1, 0, 12): 0.5246953125000015
+2024-06-26 07:12:28,810 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 1, 1, 12)
+2024-06-26 07:12:28,810 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=1, Q=1, m=12
+2024-06-26 07:12:28,810 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:12:28,822 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:12:28,825 - INFO - Score for parameters (1, 1, 1, 1, 1, 1, 12): 1.2209374999999982
+2024-06-26 07:12:28,825 - INFO - Best Seasonal ARIMA parameters found:
+2024-06-26 07:12:28,826 - INFO - (1, 1, 1, 0, 0, 1, 12)
+2024-06-26 07:13:24,527 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 0, 0, 12)
+2024-06-26 07:13:24,531 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=0, Q=0, m=12
+2024-06-26 07:13:24,533 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:13:24,541 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 07:13:24,545 - INFO - Score for parameters (1, 1, 1, 0, 0, 0, 12): 1.673262499999971
+2024-06-26 07:13:24,545 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 0, 1, 12)
+2024-06-26 07:13:24,547 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=0, Q=1, m=12
+2024-06-26 07:13:24,551 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:13:24,555 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:13:24,562 - INFO - Score for parameters (1, 1, 1, 0, 0, 1, 12): 0.5246953125000015
+2024-06-26 07:13:24,563 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 1, 0, 12)
+2024-06-26 07:13:24,568 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=1, Q=0, m=12
+2024-06-26 07:13:24,571 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:13:24,587 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 07:13:24,593 - INFO - Score for parameters (1, 1, 1, 0, 1, 0, 12): 1.673262499999971
+2024-06-26 07:13:24,595 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 1, 1, 12)
+2024-06-26 07:13:24,601 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=1, Q=1, m=12
+2024-06-26 07:13:24,603 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:13:24,608 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:13:24,612 - INFO - Score for parameters (1, 1, 1, 0, 1, 1, 12): 0.5246953125000015
+2024-06-26 07:13:24,616 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 0, 0, 12)
+2024-06-26 07:13:24,620 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=0, Q=0, m=12
+2024-06-26 07:13:24,620 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:13:24,635 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:13:24,642 - INFO - Score for parameters (1, 1, 1, 1, 0, 0, 12): 0.5246953125000015
+2024-06-26 07:13:24,643 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 0, 1, 12)
+2024-06-26 07:13:24,650 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=0, Q=1, m=12
+2024-06-26 07:13:24,656 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:13:24,662 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:13:24,669 - INFO - Score for parameters (1, 1, 1, 1, 0, 1, 12): 1.2209374999999982
+2024-06-26 07:13:24,669 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 1, 0, 12)
+2024-06-26 07:13:24,671 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=1, Q=0, m=12
+2024-06-26 07:13:24,674 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:13:24,680 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:13:24,682 - INFO - Score for parameters (1, 1, 1, 1, 1, 0, 12): 0.5246953125000015
+2024-06-26 07:13:24,686 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 1, 1, 12)
+2024-06-26 07:13:24,686 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=1, Q=1, m=12
+2024-06-26 07:13:24,690 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:13:24,698 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:13:24,702 - INFO - Score for parameters (1, 1, 1, 1, 1, 1, 12): 1.2209374999999982
+2024-06-26 07:13:24,703 - INFO - Best Seasonal ARIMA parameters found:
+2024-06-26 07:13:24,704 - INFO - (1, 1, 1, 0, 0, 1, 12)
+2024-06-26 07:14:32,096 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 0, 0, 12)
+2024-06-26 07:14:32,097 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=0, Q=0, m=12
+2024-06-26 07:14:32,100 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:14:32,104 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 07:14:32,112 - INFO - Score for parameters (1, 1, 1, 0, 0, 0, 12): 1.673262499999971
+2024-06-26 07:14:32,112 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 0, 1, 12)
+2024-06-26 07:14:32,114 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=0, Q=1, m=12
+2024-06-26 07:14:32,115 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:14:32,120 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:14:32,125 - INFO - Score for parameters (1, 1, 1, 0, 0, 1, 12): 0.5246953125000015
+2024-06-26 07:14:32,126 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 1, 0, 12)
+2024-06-26 07:14:32,127 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=1, Q=0, m=12
+2024-06-26 07:14:32,129 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:14:32,133 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 07:14:32,138 - INFO - Score for parameters (1, 1, 1, 0, 1, 0, 12): 1.673262499999971
+2024-06-26 07:14:32,138 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 1, 1, 12)
+2024-06-26 07:14:32,140 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=1, Q=1, m=12
+2024-06-26 07:14:32,143 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:14:32,143 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:14:32,160 - INFO - Score for parameters (1, 1, 1, 0, 1, 1, 12): 0.5246953125000015
+2024-06-26 07:14:32,161 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 0, 0, 12)
+2024-06-26 07:14:32,162 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=0, Q=0, m=12
+2024-06-26 07:14:32,165 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:14:32,168 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:14:32,179 - INFO - Score for parameters (1, 1, 1, 1, 0, 0, 12): 0.5246953125000015
+2024-06-26 07:14:32,179 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 0, 1, 12)
+2024-06-26 07:14:32,180 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=0, Q=1, m=12
+2024-06-26 07:14:32,182 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:14:32,186 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:14:32,193 - INFO - Score for parameters (1, 1, 1, 1, 0, 1, 12): 1.2209374999999982
+2024-06-26 07:14:32,193 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 1, 0, 12)
+2024-06-26 07:14:32,193 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=1, Q=0, m=12
+2024-06-26 07:14:32,193 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:14:32,193 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:14:32,208 - INFO - Score for parameters (1, 1, 1, 1, 1, 0, 12): 0.5246953125000015
+2024-06-26 07:14:32,209 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 1, 1, 12)
+2024-06-26 07:14:32,210 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=1, Q=1, m=12
+2024-06-26 07:14:32,212 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:14:32,212 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:14:32,212 - INFO - Score for parameters (1, 1, 1, 1, 1, 1, 12): 1.2209374999999982
+2024-06-26 07:14:32,212 - INFO - Best Seasonal ARIMA parameters found:
+2024-06-26 07:14:32,212 - INFO - (1, 1, 1, 0, 0, 1, 12)
+2024-06-26 07:16:05,172 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 0, 0, 12)
+2024-06-26 07:16:05,174 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=0, Q=0, m=12
+2024-06-26 07:16:05,176 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:16:05,181 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 07:16:05,186 - INFO - Score for parameters (1, 1, 1, 0, 0, 0, 12): 1.673262499999971
+2024-06-26 07:16:05,186 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 0, 1, 12)
+2024-06-26 07:16:05,187 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=0, Q=1, m=12
+2024-06-26 07:16:05,189 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:16:05,193 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:16:05,196 - INFO - Score for parameters (1, 1, 1, 0, 0, 1, 12): 0.5246953125000015
+2024-06-26 07:16:05,196 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 1, 0, 12)
+2024-06-26 07:16:05,198 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=1, Q=0, m=12
+2024-06-26 07:16:05,201 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:16:05,206 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 07:16:05,206 - INFO - Score for parameters (1, 1, 1, 0, 1, 0, 12): 1.673262499999971
+2024-06-26 07:16:05,206 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 1, 1, 12)
+2024-06-26 07:16:05,206 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=1, Q=1, m=12
+2024-06-26 07:16:05,206 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:16:05,218 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:16:05,221 - INFO - Score for parameters (1, 1, 1, 0, 1, 1, 12): 0.5246953125000015
+2024-06-26 07:16:05,221 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 0, 0, 12)
+2024-06-26 07:16:05,222 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=0, Q=0, m=12
+2024-06-26 07:16:05,226 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:16:05,229 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:16:05,231 - INFO - Score for parameters (1, 1, 1, 1, 0, 0, 12): 0.5246953125000015
+2024-06-26 07:16:05,231 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 0, 1, 12)
+2024-06-26 07:16:05,235 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=0, Q=1, m=12
+2024-06-26 07:16:05,237 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:16:05,240 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:16:05,242 - INFO - Score for parameters (1, 1, 1, 1, 0, 1, 12): 1.2209374999999982
+2024-06-26 07:16:05,243 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 1, 0, 12)
+2024-06-26 07:16:05,244 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=1, Q=0, m=12
+2024-06-26 07:16:05,246 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:16:05,255 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:16:05,257 - INFO - Score for parameters (1, 1, 1, 1, 1, 0, 12): 0.5246953125000015
+2024-06-26 07:16:05,257 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 1, 1, 12)
+2024-06-26 07:16:05,257 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=1, Q=1, m=12
+2024-06-26 07:16:05,257 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:16:05,257 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:16:05,268 - INFO - Score for parameters (1, 1, 1, 1, 1, 1, 12): 1.2209374999999982
+2024-06-26 07:16:05,270 - INFO - Best Seasonal ARIMA parameters found:
+2024-06-26 07:16:05,270 - INFO - (1, 1, 1, 0, 0, 1, 12)
+2024-06-26 07:16:26,278 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 0, 0, 12)
+2024-06-26 07:16:26,280 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=0, Q=0, m=12
+2024-06-26 07:16:26,282 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:16:26,290 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 07:16:26,293 - INFO - Score for parameters (1, 1, 1, 0, 0, 0, 12): 1.673262499999971
+2024-06-26 07:16:26,293 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 0, 1, 12)
+2024-06-26 07:16:26,294 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=0, Q=1, m=12
+2024-06-26 07:16:26,296 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:16:26,297 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:16:26,297 - INFO - Score for parameters (1, 1, 1, 0, 0, 1, 12): 0.5246953125000015
+2024-06-26 07:16:26,297 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 1, 0, 12)
+2024-06-26 07:16:26,297 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=1, Q=0, m=12
+2024-06-26 07:16:26,297 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:16:26,316 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 07:16:26,320 - INFO - Score for parameters (1, 1, 1, 0, 1, 0, 12): 1.673262499999971
+2024-06-26 07:16:26,321 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 1, 1, 12)
+2024-06-26 07:16:26,322 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=1, Q=1, m=12
+2024-06-26 07:16:26,324 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:16:26,330 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:16:26,332 - INFO - Score for parameters (1, 1, 1, 0, 1, 1, 12): 0.5246953125000015
+2024-06-26 07:16:26,332 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 0, 0, 12)
+2024-06-26 07:16:26,333 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=0, Q=0, m=12
+2024-06-26 07:16:26,335 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:16:26,337 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:16:26,346 - INFO - Score for parameters (1, 1, 1, 1, 0, 0, 12): 0.5246953125000015
+2024-06-26 07:16:26,346 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 0, 1, 12)
+2024-06-26 07:16:26,348 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=0, Q=1, m=12
+2024-06-26 07:16:26,350 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:16:26,353 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:16:26,356 - INFO - Score for parameters (1, 1, 1, 1, 0, 1, 12): 1.2209374999999982
+2024-06-26 07:16:26,357 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 1, 0, 12)
+2024-06-26 07:16:26,395 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=1, Q=0, m=12
+2024-06-26 07:16:26,398 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:16:26,402 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:16:26,406 - INFO - Score for parameters (1, 1, 1, 1, 1, 0, 12): 0.5246953125000015
+2024-06-26 07:16:26,406 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 1, 1, 12)
+2024-06-26 07:16:26,409 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=1, Q=1, m=12
+2024-06-26 07:16:26,411 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:16:26,416 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:16:26,430 - INFO - Score for parameters (1, 1, 1, 1, 1, 1, 12): 1.2209374999999982
+2024-06-26 07:16:26,430 - INFO - Best Seasonal ARIMA parameters found:
+2024-06-26 07:16:26,442 - INFO - (1, 1, 1, 0, 0, 1, 12)
+2024-06-26 07:18:41,187 - INFO - Using SARIMAX parameters: p=1, d=1, q=1, P=1, D=1, Q=1, m=0
+2024-06-26 07:18:41,192 - INFO - 
+SARIMAX params: p=1, d=1, q=1, P=1, D=1, Q=1, m=0
+2024-06-26 07:18:41,192 - INFO - y_diff head: Tanggal
+2024-05-24   -0.145000
+2024-05-27    0.280857
+2024-05-28   -0.530857
+2024-05-29   -0.267000
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:18:41,208 - INFO - X_diff head:             Pembukaan  Tertinggi  Terendah        Vol.  Perubahan%
+Tanggal                                                           
+2024-05-24  -0.355000  -0.520000 -0.080000   70.000000    0.630000
+2024-05-27   0.233714   0.317667  0.248857 -365.294118    0.467143
+2024-05-28  -0.233714  -0.207667 -0.498857  455.294118   -1.047143
+2024-05-29  -0.420000  -0.552000 -0.242000 -455.294118   -0.120000
+2024-06-26 07:18:41,214 - INFO - y_pred head: Tanggal
+2024-05-24        18.340000
+2024-05-27    133459.120646
+2024-05-28    207311.766678
+2024-05-29    340750.014706
+Freq: B, dtype: float64
+2024-06-26 07:18:41,218 - INFO - SARIMAX mean squared error: 44218865459.93153
+2024-06-26 07:18:41,220 - INFO - Best SARIMAX parameters used:
+2024-06-26 07:18:41,221 - INFO - p=1, d=1, q=1, P=1, D=1, Q=1, m=0
+2024-06-26 07:18:41,221 - INFO - SARIMAX mean squared error: 44218865459.93153
+2024-06-26 07:20:01,290 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 0, 0, 12)
+2024-06-26 07:20:01,292 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=0, Q=0, m=12
+2024-06-26 07:20:01,294 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:20:01,304 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 07:20:01,307 - INFO - Score for parameters (1, 1, 1, 0, 0, 0, 12): 1.673262499999971
+2024-06-26 07:20:01,307 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 0, 1, 12)
+2024-06-26 07:20:01,309 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=0, Q=1, m=12
+2024-06-26 07:20:01,312 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:20:01,316 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:20:01,318 - INFO - Score for parameters (1, 1, 1, 0, 0, 1, 12): 0.5246953125000015
+2024-06-26 07:20:01,318 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 0, 2, 12)
+2024-06-26 07:20:01,321 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=0, Q=2, m=12
+2024-06-26 07:20:01,323 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:20:01,327 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:20:01,329 - INFO - Score for parameters (1, 1, 1, 0, 0, 2, 12): 0.0
+2024-06-26 07:20:01,329 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 1, 0, 12)
+2024-06-26 07:20:01,329 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=1, Q=0, m=12
+2024-06-26 07:20:01,340 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:20:01,351 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 07:20:01,354 - INFO - Score for parameters (1, 1, 1, 0, 1, 0, 12): 1.673262499999971
+2024-06-26 07:20:01,355 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 1, 1, 12)
+2024-06-26 07:20:01,356 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=1, Q=1, m=12
+2024-06-26 07:20:01,359 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:20:01,374 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:20:01,379 - INFO - Score for parameters (1, 1, 1, 0, 1, 1, 12): 0.5246953125000015
+2024-06-26 07:20:01,379 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 1, 2, 12)
+2024-06-26 07:20:01,387 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=1, Q=2, m=12
+2024-06-26 07:20:01,392 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:20:01,394 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:20:01,400 - INFO - Score for parameters (1, 1, 1, 0, 1, 2, 12): 0.0
+2024-06-26 07:20:01,401 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 0, 0, 12)
+2024-06-26 07:20:01,404 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=0, Q=0, m=12
+2024-06-26 07:20:01,407 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:20:01,410 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:20:01,410 - INFO - Score for parameters (1, 1, 1, 1, 0, 0, 12): 0.5246953125000015
+2024-06-26 07:20:01,410 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 0, 1, 12)
+2024-06-26 07:20:01,410 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=0, Q=1, m=12
+2024-06-26 07:20:01,423 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:20:01,428 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:20:01,431 - INFO - Score for parameters (1, 1, 1, 1, 0, 1, 12): 1.2209374999999982
+2024-06-26 07:20:01,431 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 0, 2, 12)
+2024-06-26 07:20:01,433 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=0, Q=2, m=12
+2024-06-26 07:20:01,435 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:20:01,439 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:20:01,442 - INFO - Score for parameters (1, 1, 1, 1, 0, 2, 12): 0.0
+2024-06-26 07:20:01,442 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 1, 0, 12)
+2024-06-26 07:20:01,443 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=1, Q=0, m=12
+2024-06-26 07:20:01,445 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:20:01,449 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:20:01,451 - INFO - Score for parameters (1, 1, 1, 1, 1, 0, 12): 0.5246953125000015
+2024-06-26 07:20:01,451 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 1, 1, 12)
+2024-06-26 07:20:01,456 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=1, Q=1, m=12
+2024-06-26 07:20:01,458 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:20:01,458 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:20:01,474 - INFO - Score for parameters (1, 1, 1, 1, 1, 1, 12): 1.2209374999999982
+2024-06-26 07:20:01,474 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 1, 2, 12)
+2024-06-26 07:20:01,475 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=1, Q=2, m=12
+2024-06-26 07:20:01,477 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:20:01,480 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:20:01,483 - INFO - Score for parameters (1, 1, 1, 1, 1, 2, 12): 0.0
+2024-06-26 07:20:01,490 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 2, 0, 0, 12)
+2024-06-26 07:20:01,491 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=2, D=0, Q=0, m=12
+2024-06-26 07:20:01,493 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:20:01,493 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:20:01,493 - INFO - Score for parameters (1, 1, 1, 2, 0, 0, 12): 0.0
+2024-06-26 07:20:01,493 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 2, 0, 1, 12)
+2024-06-26 07:20:01,493 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=2, D=0, Q=1, m=12
+2024-06-26 07:20:01,505 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:20:01,508 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:20:01,512 - INFO - Score for parameters (1, 1, 1, 2, 0, 1, 12): 0.0
+2024-06-26 07:20:01,512 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 2, 0, 2, 12)
+2024-06-26 07:20:01,514 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=2, D=0, Q=2, m=12
+2024-06-26 07:20:01,516 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:20:01,521 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:20:01,524 - INFO - Score for parameters (1, 1, 1, 2, 0, 2, 12): 0.0
+2024-06-26 07:20:01,524 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 2, 1, 0, 12)
+2024-06-26 07:20:01,527 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=2, D=1, Q=0, m=12
+2024-06-26 07:20:01,527 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:20:01,527 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:20:01,527 - INFO - Score for parameters (1, 1, 1, 2, 1, 0, 12): 0.0
+2024-06-26 07:20:01,527 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 2, 1, 1, 12)
+2024-06-26 07:20:01,539 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=2, D=1, Q=1, m=12
+2024-06-26 07:20:01,543 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:20:01,546 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:20:01,549 - INFO - Score for parameters (1, 1, 1, 2, 1, 1, 12): 0.0
+2024-06-26 07:20:01,550 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 2, 1, 2, 12)
+2024-06-26 07:20:01,551 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=2, D=1, Q=2, m=12
+2024-06-26 07:20:01,555 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:20:01,558 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:20:01,558 - INFO - Score for parameters (1, 1, 1, 2, 1, 2, 12): 0.0
+2024-06-26 07:20:01,558 - INFO - Best Seasonal ARIMA parameters found:
+2024-06-26 07:20:01,558 - INFO - (1, 1, 1, 0, 0, 1, 12)
+2024-06-26 07:21:13,172 - INFO - Using SARIMAX parameters: p=1, d=1, q=1, P=1, D=1, Q=1, m=0
+2024-06-26 07:21:13,175 - INFO - 
+SARIMAX params: p=1, d=1, q=1, P=1, D=1, Q=1, m=0
+2024-06-26 07:21:13,175 - INFO - y_diff head: Tanggal
+2024-05-24   -0.145000
+2024-05-27    0.280857
+2024-05-28   -0.530857
+2024-05-29   -0.267000
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:21:13,193 - INFO - X_diff head:             Pembukaan  Tertinggi  Terendah        Vol.  Perubahan%
+Tanggal                                                           
+2024-05-24  -0.355000  -0.520000 -0.080000   70.000000    0.630000
+2024-05-27   0.233714   0.317667  0.248857 -365.294118    0.467143
+2024-05-28  -0.233714  -0.207667 -0.498857  455.294118   -1.047143
+2024-05-29  -0.420000  -0.552000 -0.242000 -455.294118   -0.120000
+2024-06-26 07:21:13,198 - INFO - y_pred head: Tanggal
+2024-05-24     18.340000
+2024-05-27   -345.134165
+2024-05-28    470.896737
+2024-05-29   -804.155854
+Freq: B, dtype: float64
+2024-06-26 07:21:13,201 - INFO - SARIMAX mean squared error: 253250.22352719575
+2024-06-26 07:21:13,202 - INFO - Best SARIMAX parameters used:
+2024-06-26 07:21:13,204 - INFO - p=1, d=1, q=1, P=1, D=1, Q=1, m=0
+2024-06-26 07:21:13,205 - INFO - SARIMAX mean squared error: 253250.22352719575
+2024-06-26 07:30:45,831 - INFO - Testing ARIMA parameters: (0, 0, 0)
+2024-06-26 07:30:45,831 - INFO - 
+ARIMA params: p=0, d=0, q=0
+2024-06-26 07:30:45,831 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:45,844 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 07:30:45,847 - INFO - Score for parameters (0, 0, 0): 0.0
+2024-06-26 07:30:45,847 - INFO - Testing ARIMA parameters: (0, 0, 1)
+2024-06-26 07:30:45,848 - INFO - 
+ARIMA params: p=0, d=0, q=1
+2024-06-26 07:30:45,851 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:45,859 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 07:30:45,862 - INFO - Score for parameters (0, 0, 1): 0.0
+2024-06-26 07:30:45,862 - INFO - Testing ARIMA parameters: (0, 1, 0)
+2024-06-26 07:30:45,864 - INFO - 
+ARIMA params: p=0, d=1, q=0
+2024-06-26 07:30:45,866 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:45,872 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:30:45,876 - INFO - Score for parameters (0, 1, 0): 0.0
+2024-06-26 07:30:45,876 - INFO - Testing ARIMA parameters: (0, 1, 1)
+2024-06-26 07:30:45,877 - INFO - 
+ARIMA params: p=0, d=1, q=1
+2024-06-26 07:30:45,878 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:45,882 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.250
+2024-05-03    17.940
+2024-05-06    19.055
+2024-05-07    17.160
+Freq: B, dtype: float64
+2024-06-26 07:30:45,892 - INFO - Score for parameters (0, 1, 1): 0.41831562499999275
+2024-06-26 07:30:45,893 - INFO - Testing ARIMA parameters: (1, 0, 0)
+2024-06-26 07:30:45,894 - INFO - 
+ARIMA params: p=1, d=0, q=0
+2024-06-26 07:30:45,895 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:45,899 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 07:30:45,901 - INFO - Score for parameters (1, 0, 0): 0.0
+2024-06-26 07:30:45,901 - INFO - Testing ARIMA parameters: (1, 0, 1)
+2024-06-26 07:30:45,902 - INFO - 
+ARIMA params: p=1, d=0, q=1
+2024-06-26 07:30:45,903 - INFO - y_diff head: Tanggal
+2024-04-30    0.0
+2024-05-01    0.0
+2024-05-02    0.0
+2024-05-03    0.0
+2024-05-06    0.0
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:45,909 - INFO - y_pred head: Tanggal
+2024-04-30    18.890
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+Freq: B, dtype: float64
+2024-06-26 07:30:45,909 - INFO - Score for parameters (1, 0, 1): 0.0
+2024-06-26 07:30:45,909 - INFO - Testing ARIMA parameters: (1, 1, 0)
+2024-06-26 07:30:45,909 - INFO - 
+ARIMA params: p=1, d=1, q=0
+2024-06-26 07:30:45,909 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:45,909 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.250
+2024-05-03    18.020
+2024-05-06    18.255
+2024-05-07    17.810
+Freq: B, dtype: float64
+2024-06-26 07:30:45,925 - INFO - Score for parameters (1, 1, 0): 0.11934999999999985
+2024-06-26 07:30:45,925 - INFO - Testing ARIMA parameters: (1, 1, 1)
+2024-06-26 07:30:45,926 - INFO - 
+ARIMA params: p=1, d=1, q=1
+2024-06-26 07:30:45,928 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:45,931 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 07:30:45,942 - INFO - Score for parameters (1, 1, 1): 1.673262499999971
+2024-06-26 07:30:45,942 - INFO - Best ARIMA parameters found:
+2024-06-26 07:30:45,942 - INFO - (1, 1, 0)
+2024-06-26 07:30:48,329 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 0, 0, 12)
+2024-06-26 07:30:48,329 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=0, Q=0, m=12
+2024-06-26 07:30:48,329 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:48,346 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 07:30:48,350 - INFO - Score for parameters (1, 1, 1, 0, 0, 0, 12): 1.673262499999971
+2024-06-26 07:30:48,351 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 0, 1, 12)
+2024-06-26 07:30:48,352 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=0, Q=1, m=12
+2024-06-26 07:30:48,354 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:48,362 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:30:48,365 - INFO - Score for parameters (1, 1, 1, 0, 0, 1, 12): 0.5246953125000015
+2024-06-26 07:30:48,366 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 0, 2, 12)
+2024-06-26 07:30:48,367 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=0, Q=2, m=12
+2024-06-26 07:30:48,370 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:48,371 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:30:48,374 - INFO - Score for parameters (1, 1, 1, 0, 0, 2, 12): 0.0
+2024-06-26 07:30:48,374 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 1, 0, 12)
+2024-06-26 07:30:48,376 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=1, Q=0, m=12
+2024-06-26 07:30:48,377 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:48,379 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.330
+2024-05-03    17.140
+2024-05-06    19.705
+2024-05-07    16.025
+Freq: B, dtype: float64
+2024-06-26 07:30:48,379 - INFO - Score for parameters (1, 1, 1, 0, 1, 0, 12): 1.673262499999971
+2024-06-26 07:30:48,379 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 1, 1, 12)
+2024-06-26 07:30:48,391 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=1, Q=1, m=12
+2024-06-26 07:30:48,393 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:48,397 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:30:48,398 - INFO - Score for parameters (1, 1, 1, 0, 1, 1, 12): 0.5246953125000015
+2024-06-26 07:30:48,399 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 0, 1, 2, 12)
+2024-06-26 07:30:48,400 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=0, D=1, Q=2, m=12
+2024-06-26 07:30:48,401 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:48,403 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:30:48,408 - INFO - Score for parameters (1, 1, 1, 0, 1, 2, 12): 0.0
+2024-06-26 07:30:48,409 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 0, 0, 12)
+2024-06-26 07:30:48,410 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=0, Q=0, m=12
+2024-06-26 07:30:48,411 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:48,414 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:30:48,416 - INFO - Score for parameters (1, 1, 1, 1, 0, 0, 12): 0.5246953125000015
+2024-06-26 07:30:48,416 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 0, 1, 12)
+2024-06-26 07:30:48,417 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=0, Q=1, m=12
+2024-06-26 07:30:48,418 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:48,425 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:30:48,465 - INFO - Score for parameters (1, 1, 1, 1, 0, 1, 12): 1.2209374999999982
+2024-06-26 07:30:48,465 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 0, 2, 12)
+2024-06-26 07:30:48,465 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=0, Q=2, m=12
+2024-06-26 07:30:48,465 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:48,478 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:30:48,480 - INFO - Score for parameters (1, 1, 1, 1, 0, 2, 12): 0.0
+2024-06-26 07:30:48,480 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 1, 0, 12)
+2024-06-26 07:30:48,481 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=1, Q=0, m=12
+2024-06-26 07:30:48,483 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:48,488 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:30:48,490 - INFO - Score for parameters (1, 1, 1, 1, 1, 0, 12): 0.5246953125000015
+2024-06-26 07:30:48,492 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 1, 1, 12)
+2024-06-26 07:30:48,511 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=1, Q=1, m=12
+2024-06-26 07:30:48,513 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:48,517 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:30:48,519 - INFO - Score for parameters (1, 1, 1, 1, 1, 1, 12): 1.2209374999999982
+2024-06-26 07:30:48,519 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 1, 1, 2, 12)
+2024-06-26 07:30:48,521 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=1, D=1, Q=2, m=12
+2024-06-26 07:30:48,521 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:48,521 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:30:48,521 - INFO - Score for parameters (1, 1, 1, 1, 1, 2, 12): 0.0
+2024-06-26 07:30:48,521 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 2, 0, 0, 12)
+2024-06-26 07:30:48,521 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=2, D=0, Q=0, m=12
+2024-06-26 07:30:48,560 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:48,562 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:30:48,565 - INFO - Score for parameters (1, 1, 1, 2, 0, 0, 12): 0.0
+2024-06-26 07:30:48,566 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 2, 0, 1, 12)
+2024-06-26 07:30:48,567 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=2, D=0, Q=1, m=12
+2024-06-26 07:30:48,569 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:48,577 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:30:48,609 - INFO - Score for parameters (1, 1, 1, 2, 0, 1, 12): 0.0
+2024-06-26 07:30:48,609 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 2, 0, 2, 12)
+2024-06-26 07:30:48,609 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=2, D=0, Q=2, m=12
+2024-06-26 07:30:48,625 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:48,625 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:30:48,625 - INFO - Score for parameters (1, 1, 1, 2, 0, 2, 12): 0.0
+2024-06-26 07:30:48,625 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 2, 1, 0, 12)
+2024-06-26 07:30:48,625 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=2, D=1, Q=0, m=12
+2024-06-26 07:30:48,625 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:48,625 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:30:48,645 - INFO - Score for parameters (1, 1, 1, 2, 1, 0, 12): 0.0
+2024-06-26 07:30:48,646 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 2, 1, 1, 12)
+2024-06-26 07:30:48,647 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=2, D=1, Q=1, m=12
+2024-06-26 07:30:48,649 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:48,652 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:30:48,655 - INFO - Score for parameters (1, 1, 1, 2, 1, 1, 12): 0.0
+2024-06-26 07:30:48,655 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 1, 2, 1, 2, 12)
+2024-06-26 07:30:48,656 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=1, P=2, D=1, Q=2, m=12
+2024-06-26 07:30:48,660 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:30:48,664 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:30:48,667 - INFO - Score for parameters (1, 1, 1, 2, 1, 2, 12): 0.0
+2024-06-26 07:30:48,670 - INFO - Best Seasonal ARIMA parameters found:
+2024-06-26 07:30:48,670 - INFO - (1, 1, 1, 0, 0, 1, 12)
+2024-06-26 07:31:49,306 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 0, 0, 12)
+2024-06-26 07:31:49,308 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=0, Q=0, m=12
+2024-06-26 07:31:49,310 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,319 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.250
+2024-05-03    18.020
+2024-05-06    18.255
+2024-05-07    17.810
+Freq: B, dtype: float64
+2024-06-26 07:31:49,321 - INFO - Score for parameters (1, 1, 0, 0, 0, 0, 12): 0.11934999999999985
+2024-06-26 07:31:49,322 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 0, 1, 12)
+2024-06-26 07:31:49,323 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=0, Q=1, m=12
+2024-06-26 07:31:49,327 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,330 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,334 - INFO - Score for parameters (1, 1, 0, 0, 0, 1, 12): 0.1461656249999998
+2024-06-26 07:31:49,334 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 0, 2, 12)
+2024-06-26 07:31:49,336 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=0, Q=2, m=12
+2024-06-26 07:31:49,340 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,356 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,358 - INFO - Score for parameters (1, 1, 0, 0, 0, 2, 12): 0.0
+2024-06-26 07:31:49,358 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 0, 3, 12)
+2024-06-26 07:31:49,360 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=0, Q=3, m=12
+2024-06-26 07:31:49,362 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,370 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,374 - INFO - Score for parameters (1, 1, 0, 0, 0, 3, 12): 0.0
+2024-06-26 07:31:49,375 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 1, 0, 12)
+2024-06-26 07:31:49,376 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=1, Q=0, m=12
+2024-06-26 07:31:49,378 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,385 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.250
+2024-05-03    18.020
+2024-05-06    18.255
+2024-05-07    17.810
+Freq: B, dtype: float64
+2024-06-26 07:31:49,388 - INFO - Score for parameters (1, 1, 0, 0, 1, 0, 12): 0.11934999999999985
+2024-06-26 07:31:49,388 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 1, 1, 12)
+2024-06-26 07:31:49,390 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=1, Q=1, m=12
+2024-06-26 07:31:49,391 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,391 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,401 - INFO - Score for parameters (1, 1, 0, 0, 1, 1, 12): 0.1461656249999998
+2024-06-26 07:31:49,402 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 1, 2, 12)
+2024-06-26 07:31:49,404 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=1, Q=2, m=12
+2024-06-26 07:31:49,407 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,409 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,411 - INFO - Score for parameters (1, 1, 0, 0, 1, 2, 12): 0.0
+2024-06-26 07:31:49,411 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 1, 3, 12)
+2024-06-26 07:31:49,413 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=1, Q=3, m=12
+2024-06-26 07:31:49,414 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,416 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,462 - INFO - Score for parameters (1, 1, 0, 0, 1, 3, 12): 0.0
+2024-06-26 07:31:49,462 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 2, 0, 12)
+2024-06-26 07:31:49,463 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=2, Q=0, m=12
+2024-06-26 07:31:49,465 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,476 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.250
+2024-05-03    18.020
+2024-05-06    18.255
+2024-05-07    17.810
+Freq: B, dtype: float64
+2024-06-26 07:31:49,522 - INFO - Score for parameters (1, 1, 0, 0, 2, 0, 12): 0.11934999999999985
+2024-06-26 07:31:49,522 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 2, 1, 12)
+2024-06-26 07:31:49,522 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=2, Q=1, m=12
+2024-06-26 07:31:49,539 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,542 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,545 - INFO - Score for parameters (1, 1, 0, 0, 2, 1, 12): 0.1461656249999998
+2024-06-26 07:31:49,545 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 2, 2, 12)
+2024-06-26 07:31:49,545 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=2, Q=2, m=12
+2024-06-26 07:31:49,545 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,575 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,577 - INFO - Score for parameters (1, 1, 0, 0, 2, 2, 12): 0.0
+2024-06-26 07:31:49,577 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 0, 2, 3, 12)
+2024-06-26 07:31:49,578 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=0, D=2, Q=3, m=12
+2024-06-26 07:31:49,579 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,589 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,594 - INFO - Score for parameters (1, 1, 0, 0, 2, 3, 12): 0.0
+2024-06-26 07:31:49,594 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 0, 0, 12)
+2024-06-26 07:31:49,596 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=0, Q=0, m=12
+2024-06-26 07:31:49,634 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,638 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,640 - INFO - Score for parameters (1, 1, 0, 1, 0, 0, 12): 0.1461656249999998
+2024-06-26 07:31:49,641 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 0, 1, 12)
+2024-06-26 07:31:49,642 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=0, Q=1, m=12
+2024-06-26 07:31:49,642 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,642 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,653 - INFO - Score for parameters (1, 1, 0, 1, 0, 1, 12): 0.3611390624999994
+2024-06-26 07:31:49,654 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 0, 2, 12)
+2024-06-26 07:31:49,655 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=0, Q=2, m=12
+2024-06-26 07:31:49,658 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,663 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,665 - INFO - Score for parameters (1, 1, 0, 1, 0, 2, 12): 0.0
+2024-06-26 07:31:49,665 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 0, 3, 12)
+2024-06-26 07:31:49,666 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=0, Q=3, m=12
+2024-06-26 07:31:49,671 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,673 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,706 - INFO - Score for parameters (1, 1, 0, 1, 0, 3, 12): 0.0
+2024-06-26 07:31:49,707 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 1, 0, 12)
+2024-06-26 07:31:49,709 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=1, Q=0, m=12
+2024-06-26 07:31:49,711 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,714 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,718 - INFO - Score for parameters (1, 1, 0, 1, 1, 0, 12): 0.1461656249999998
+2024-06-26 07:31:49,718 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 1, 1, 12)
+2024-06-26 07:31:49,719 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=1, Q=1, m=12
+2024-06-26 07:31:49,721 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,725 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,727 - INFO - Score for parameters (1, 1, 0, 1, 1, 1, 12): 0.3611390624999994
+2024-06-26 07:31:49,727 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 1, 2, 12)
+2024-06-26 07:31:49,727 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=1, Q=2, m=12
+2024-06-26 07:31:49,736 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,739 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,742 - INFO - Score for parameters (1, 1, 0, 1, 1, 2, 12): 0.0
+2024-06-26 07:31:49,742 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 1, 3, 12)
+2024-06-26 07:31:49,742 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=1, Q=3, m=12
+2024-06-26 07:31:49,754 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,757 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,759 - INFO - Score for parameters (1, 1, 0, 1, 1, 3, 12): 0.0
+2024-06-26 07:31:49,759 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 2, 0, 12)
+2024-06-26 07:31:49,762 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=2, Q=0, m=12
+2024-06-26 07:31:49,765 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,803 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,803 - INFO - Score for parameters (1, 1, 0, 1, 2, 0, 12): 0.1461656249999998
+2024-06-26 07:31:49,803 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 2, 1, 12)
+2024-06-26 07:31:49,803 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=2, Q=1, m=12
+2024-06-26 07:31:49,803 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,821 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,823 - INFO - Score for parameters (1, 1, 0, 1, 2, 1, 12): 0.3611390624999994
+2024-06-26 07:31:49,823 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 2, 2, 12)
+2024-06-26 07:31:49,824 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=2, Q=2, m=12
+2024-06-26 07:31:49,826 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,828 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,837 - INFO - Score for parameters (1, 1, 0, 1, 2, 2, 12): 0.0
+2024-06-26 07:31:49,837 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 1, 2, 3, 12)
+2024-06-26 07:31:49,838 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=1, D=2, Q=3, m=12
+2024-06-26 07:31:49,840 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,845 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,849 - INFO - Score for parameters (1, 1, 0, 1, 2, 3, 12): 0.0
+2024-06-26 07:31:49,849 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 2, 0, 0, 12)
+2024-06-26 07:31:49,850 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=2, D=0, Q=0, m=12
+2024-06-26 07:31:49,855 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,857 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,860 - INFO - Score for parameters (1, 1, 0, 2, 0, 0, 12): 0.0
+2024-06-26 07:31:49,861 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 2, 0, 1, 12)
+2024-06-26 07:31:49,862 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=2, D=0, Q=1, m=12
+2024-06-26 07:31:49,865 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,869 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,872 - INFO - Score for parameters (1, 1, 0, 2, 0, 1, 12): 0.0
+2024-06-26 07:31:49,873 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 2, 0, 2, 12)
+2024-06-26 07:31:49,874 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=2, D=0, Q=2, m=12
+2024-06-26 07:31:49,876 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,876 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,876 - INFO - Score for parameters (1, 1, 0, 2, 0, 2, 12): 0.0
+2024-06-26 07:31:49,876 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 2, 0, 3, 12)
+2024-06-26 07:31:49,876 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=2, D=0, Q=3, m=12
+2024-06-26 07:31:49,876 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,886 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,889 - INFO - Score for parameters (1, 1, 0, 2, 0, 3, 12): 0.0
+2024-06-26 07:31:49,889 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 2, 1, 0, 12)
+2024-06-26 07:31:49,890 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=2, D=1, Q=0, m=12
+2024-06-26 07:31:49,892 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,894 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,895 - INFO - Score for parameters (1, 1, 0, 2, 1, 0, 12): 0.0
+2024-06-26 07:31:49,896 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 2, 1, 1, 12)
+2024-06-26 07:31:49,896 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=2, D=1, Q=1, m=12
+2024-06-26 07:31:49,898 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,901 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,904 - INFO - Score for parameters (1, 1, 0, 2, 1, 1, 12): 0.0
+2024-06-26 07:31:49,904 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 2, 1, 2, 12)
+2024-06-26 07:31:49,905 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=2, D=1, Q=2, m=12
+2024-06-26 07:31:49,907 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,909 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,911 - INFO - Score for parameters (1, 1, 0, 2, 1, 2, 12): 0.0
+2024-06-26 07:31:49,912 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 2, 1, 3, 12)
+2024-06-26 07:31:49,913 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=2, D=1, Q=3, m=12
+2024-06-26 07:31:49,920 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,923 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,925 - INFO - Score for parameters (1, 1, 0, 2, 1, 3, 12): 0.0
+2024-06-26 07:31:49,925 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 2, 2, 0, 12)
+2024-06-26 07:31:49,927 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=2, D=2, Q=0, m=12
+2024-06-26 07:31:49,927 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,927 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,935 - INFO - Score for parameters (1, 1, 0, 2, 2, 0, 12): 0.0
+2024-06-26 07:31:49,935 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 2, 2, 1, 12)
+2024-06-26 07:31:49,937 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=2, D=2, Q=1, m=12
+2024-06-26 07:31:49,938 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,942 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,943 - INFO - Score for parameters (1, 1, 0, 2, 2, 1, 12): 0.0
+2024-06-26 07:31:49,943 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 2, 2, 2, 12)
+2024-06-26 07:31:49,943 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=2, D=2, Q=2, m=12
+2024-06-26 07:31:49,943 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,943 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,953 - INFO - Score for parameters (1, 1, 0, 2, 2, 2, 12): 0.0
+2024-06-26 07:31:49,954 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 2, 2, 3, 12)
+2024-06-26 07:31:49,956 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=2, D=2, Q=3, m=12
+2024-06-26 07:31:49,958 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,962 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,962 - INFO - Score for parameters (1, 1, 0, 2, 2, 3, 12): 0.0
+2024-06-26 07:31:49,968 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 3, 0, 0, 12)
+2024-06-26 07:31:49,970 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=3, D=0, Q=0, m=12
+2024-06-26 07:31:49,972 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,976 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,979 - INFO - Score for parameters (1, 1, 0, 3, 0, 0, 12): 0.0
+2024-06-26 07:31:49,979 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 3, 0, 1, 12)
+2024-06-26 07:31:49,980 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=3, D=0, Q=1, m=12
+2024-06-26 07:31:49,982 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:49,989 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:49,989 - INFO - Score for parameters (1, 1, 0, 3, 0, 1, 12): 0.0
+2024-06-26 07:31:49,989 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 3, 0, 2, 12)
+2024-06-26 07:31:49,989 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=3, D=0, Q=2, m=12
+2024-06-26 07:31:49,989 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:50,021 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:50,021 - INFO - Score for parameters (1, 1, 0, 3, 0, 2, 12): 0.0
+2024-06-26 07:31:50,021 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 3, 0, 3, 12)
+2024-06-26 07:31:50,021 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=3, D=0, Q=3, m=12
+2024-06-26 07:31:50,021 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:50,039 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:50,039 - INFO - Score for parameters (1, 1, 0, 3, 0, 3, 12): 0.0
+2024-06-26 07:31:50,039 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 3, 1, 0, 12)
+2024-06-26 07:31:50,039 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=3, D=1, Q=0, m=12
+2024-06-26 07:31:50,039 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:50,053 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:50,054 - INFO - Score for parameters (1, 1, 0, 3, 1, 0, 12): 0.0
+2024-06-26 07:31:50,054 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 3, 1, 1, 12)
+2024-06-26 07:31:50,054 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=3, D=1, Q=1, m=12
+2024-06-26 07:31:50,054 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:50,071 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:50,074 - INFO - Score for parameters (1, 1, 0, 3, 1, 1, 12): 0.0
+2024-06-26 07:31:50,074 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 3, 1, 2, 12)
+2024-06-26 07:31:50,076 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=3, D=1, Q=2, m=12
+2024-06-26 07:31:50,078 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:50,082 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:50,090 - INFO - Score for parameters (1, 1, 0, 3, 1, 2, 12): 0.0
+2024-06-26 07:31:50,091 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 3, 1, 3, 12)
+2024-06-26 07:31:50,091 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=3, D=1, Q=3, m=12
+2024-06-26 07:31:50,091 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:50,091 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:50,103 - INFO - Score for parameters (1, 1, 0, 3, 1, 3, 12): 0.0
+2024-06-26 07:31:50,103 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 3, 2, 0, 12)
+2024-06-26 07:31:50,103 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=3, D=2, Q=0, m=12
+2024-06-26 07:31:50,103 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:50,103 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:50,103 - INFO - Score for parameters (1, 1, 0, 3, 2, 0, 12): 0.0
+2024-06-26 07:31:50,103 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 3, 2, 1, 12)
+2024-06-26 07:31:50,103 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=3, D=2, Q=1, m=12
+2024-06-26 07:31:50,121 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:50,123 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:50,123 - INFO - Score for parameters (1, 1, 0, 3, 2, 1, 12): 0.0
+2024-06-26 07:31:50,139 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 3, 2, 2, 12)
+2024-06-26 07:31:50,140 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=3, D=2, Q=2, m=12
+2024-06-26 07:31:50,154 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:50,154 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:50,154 - INFO - Score for parameters (1, 1, 0, 3, 2, 2, 12): 0.0
+2024-06-26 07:31:50,154 - INFO - Testing Seasonal ARIMA parameters: (1, 1, 0, 3, 2, 3, 12)
+2024-06-26 07:31:50,154 - INFO - 
+Seasonal ARIMA params: p=1, d=1, q=0, P=3, D=2, Q=3, m=12
+2024-06-26 07:31:50,154 - INFO - y_diff head: Tanggal
+2024-05-01    0.080
+2024-05-02   -0.800
+2024-05-03    0.570
+2024-05-06   -0.335
+2024-05-07   -0.110
+Freq: B, Name: Terakhir, dtype: float64
+2024-06-26 07:31:50,171 - INFO - y_pred head: Tanggal
+2024-05-01    18.970
+2024-05-02    18.170
+2024-05-03    18.740
+2024-05-06    18.405
+2024-05-07    18.295
+Freq: B, dtype: float64
+2024-06-26 07:31:50,171 - INFO - Score for parameters (1, 1, 0, 3, 2, 3, 12): 0.0
+2024-06-26 07:31:50,171 - INFO - Best Seasonal ARIMA parameters found:
+2024-06-26 07:31:50,171 - INFO - (1, 1, 0, 0, 0, 0, 12)
